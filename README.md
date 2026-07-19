@@ -11,6 +11,6 @@ ZennのGitHub連携用リポジトリです。`main` の `articles/*.md` を公�
 
 売上0の一人法人が、成功者を装わずにAIとの仕事を形にしていく公開記録です。
 
-- [スマホだけでAIを始めたい人が、最初に作るべき入口は1つ](https://ai-akari.ai/blog-smartphone-ai-first-entry.html?origin=external-directory)
-- [AI相談で何が届くのか、成果物を先に見せます](https://ai-akari.ai/blog-ai-consultation-deliverable.html?origin=external-directory)
-- [AIを始めたのに止まった人へ。再開地点はここです](https://ai-akari.ai/blog-ai-restart-point.html?origin=external-directory)
+- [スマホだけでAIを始めたい人が、最初に作るべき入口は1つ](https://ai-akari.ai/blog/smartphone-ai-first-entry?origin=external-directory)
+- [AI相談で何が届くのか、成果物を先に見せます](https://ai-akari.ai/blog/ai-consultation-deliverable?origin=external-directory)
+- [AIを始めたのに止まった人へ。再開地点はここです](https://ai-akari.ai/blog/ai-restart-point?origin=external-directory)
